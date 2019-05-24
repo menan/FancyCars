@@ -1,4 +1,4 @@
-# FancyCars
+# Fancy Cars
 A react native cars app that displays a list of cars and shows its availability.
 
 ## Getting Started
