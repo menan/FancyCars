@@ -1,7 +1,7 @@
 # FancyCars
-a react native cars app
+A react native cars app that displays a list of cars and shows its availability.
 
-## Running
+## Getting Started
 - Clone project and navigate to the project folder in Terminal
 - Install expo: `npm install -g expo-cli`
 - Start project: `npm start`
