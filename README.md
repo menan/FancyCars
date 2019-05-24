@@ -1,5 +1,10 @@
 # FancyCars
-a react native app
+a react native cars app
+
+## Running
+- Clone project and navigate to the project folder in Terminal
+- Install expo: `npm install -g expo-cli`
+- Start project: `npm start`
 
 ## Tasks
 - Show list of all the cars and for each car, they want to show picture, name, make, model and availability of the car. 
