@@ -13,8 +13,7 @@ a react native cars app
 - Show a buy button that only shows up if Availability is “In Dealership”
 - Make sure your app can also work when its offline
 
-API spec is as follows: 
-
+## API Specs
 ### GET /availability?id=123
 RESPONSE: `{available: “In Dealership”}`  // all  options are [ “Out of Stock”, “Unavailable”]
 
